@@ -1,4 +1,5 @@
-![example workflow](https://github.com/benm-stm/solace-scalable-k8s-operator/actions/workflows/buildAndTest.yml/badge.svg)
+![Build and Test](https://github.com/benm-stm/solacescalable-port-mapping/actions/workflows/buildAndTest.yml/badge.svg)
+
 # solacescalable-port-mapping
 organized display of port mapping for the solacescalable operator
 Example display
